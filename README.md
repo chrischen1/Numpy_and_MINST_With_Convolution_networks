@@ -1,5 +1,5 @@
 
-# Numpy_only_NMINST_With_Convolution_networks
+# Numpy and NMINST with convolution 
 Based on the submission of Priject1 of MU EECS CMP_SC 8770(2019Spring)
 
 This is a simple demo for convolution neural networks with Numpy only on Python. The sample inputs are from MINST.
